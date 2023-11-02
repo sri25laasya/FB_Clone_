@@ -5,7 +5,7 @@ import ReactDOM from 'react-dom/client';
 // boilerplate dependency
 import reportWebVitals from './reportWebVitals';
 
-// global styles
+// global styles  
 import './index.css';
 
 // sub-components
